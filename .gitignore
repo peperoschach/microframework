@@ -1,0 +1,8 @@
+.env
+public/storage
+/vendor/*
+/wpcs/*
+node_modules/
+npm-debug.log
+yarn-error.log
+composer.phar
